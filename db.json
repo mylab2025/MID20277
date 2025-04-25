@@ -7,10 +7,10 @@
         "MF": "STM"
       },
       "MID": "MID20277",
-      "MD": "STP6N62K3 is N channel Power MOSFET with VDSS = 620V, RDS = <1.2R, ID = 5.5A || TO-220 || Switching applications || Alternate :  || Ref : Q1",
+      "MD": "STP6N62K3 is N channel Power MOSFET with VDSS = 620V, RDS = <1.2R, ID = 5.5A || TO-220 || Switching applications || Alternate : MID20278 (Tested doc added in File1) || Ref : Q1",
       "MT": "Electronic Material",
       "MQNT": 3,
-      "MCost": 0,
+      "MCost": 178,
       "MQATG": "#CLASS_0",
       "ML": "",
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20277%2Fmain%2FSTM%40STP6N62K3.pdf",
